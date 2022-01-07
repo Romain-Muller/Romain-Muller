@@ -5,9 +5,7 @@
 I also really want to perfectly master JavaScript. 
 
 
-- 🌱 I’m currently learning JavaScript, and some prototyping skills on Figma.
-
-I plan to learn React as soon as possible.
+- 🌱 I’m currently working on "Programme Rocket" of Belivemy.
 
 
 - 💞️ I’m looking to collaborate on every project which need front-end competences.
@@ -21,7 +19,7 @@ With team working we are all learning new skills whatever they are.
 
      - on Instagram at romain.muller_web.developer  
      - on my contact section on my [website](https://romainmullerportfolio.fr/)     
-     - or directly at contact@romainmullerportfolio.fr
+     - or directly at romain.muller.pro@outlook.fr
 
 <!---
 Romain-Muller/Romain-Muller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
